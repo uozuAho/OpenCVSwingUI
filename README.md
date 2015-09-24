@@ -15,4 +15,4 @@ Swing-based UI library for OpenCV
 
 # Notes
 - This project includes the OpenCV 3.0.0 java library, but not the
-  native library. This needs to be
+  native library.
